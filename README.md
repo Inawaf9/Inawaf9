@@ -1,4 +1,9 @@
-# ![My Awesome Image](image.jpg)
+<p align="center">
+ <img src="image.jpg" alt="My Awesome Image" width="500" height="200">
+</p>
+
+
+
 
 # Hey, I'm Nawaf, a web developer 🌐💻✨
 
