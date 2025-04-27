@@ -1,4 +1,4 @@
-# ![My Awesome Image](image.png)
+# ![My Awesome Image](image.jpg)
 
 # Hey, I'm Nawaf, a web developer 🌐💻✨
 
