@@ -1,7 +1,6 @@
+# ![My Awesome Image](image.png)
 
-
-# 💫 About Me:
-Hey, I'm Nawaf, a web developer 🌐💻✨
+# Hey, I'm Nawaf, a web developer 🌐💻✨
 
 
 ## 🌐 Socials:
